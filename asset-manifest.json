@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-booking-app/static/css/main.5ca547bd.css",
+    "main.js": "/movie-booking-app/static/js/main.7f19281d.js",
+    "static/media/bootstrap-icons.woff?": "/movie-booking-app/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/movie-booking-app/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/Frozen.webp": "/movie-booking-app/static/media/Frozen.ff33fdf85a320195292b.webp",
+    "static/media/Titanic.webp": "/movie-booking-app/static/media/Titanic.99c7a9cf0d4be978d996.webp",
+    "static/media/Avengers.webp": "/movie-booking-app/static/media/Avengers.e371ce819e89ca070de0.webp",
+    "static/media/image2.webp": "/movie-booking-app/static/media/image2.c8411cbdce16b43bb68d.webp",
+    "static/media/image3.webp": "/movie-booking-app/static/media/image3.5566697b78a35b12d866.webp",
+    "static/media/image4.webp": "/movie-booking-app/static/media/image4.5367eacfa7a4fbc95358.webp",
+    "static/media/image1.webp": "/movie-booking-app/static/media/image1.783f584c8aa15c419fde.webp",
+    "index.html": "/movie-booking-app/index.html",
+    "main.5ca547bd.css.map": "/movie-booking-app/static/css/main.5ca547bd.css.map",
+    "main.7f19281d.js.map": "/movie-booking-app/static/js/main.7f19281d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca547bd.css",
+    "static/js/main.7f19281d.js"
+  ]
+}
