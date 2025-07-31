@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "Avengers", "description": "Action-packed movie", "category": "Action", "image": "Avengers.webp" },
+  { "id": 2, "title": "Frozen", "description": "Animated fun", "category": "Animation", "image": "Frozen.webp" },
+  { "id": 3, "title": "Titanic", "description": "Romantic drama", "category": "Romance", "image": "Titanic.webp" }
+]
