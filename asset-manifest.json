@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/movie-booking-app/static/css/main.5ca547bd.css",
-    "main.js": "/movie-booking-app/static/js/main.2404fe31.js",
+    "main.js": "/movie-booking-app/static/js/main.7f19281d.js",
     "static/media/bootstrap-icons.woff?": "/movie-booking-app/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/movie-booking-app/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/Frozen.webp": "/movie-booking-app/static/media/Frozen.ff33fdf85a320195292b.webp",
@@ -13,10 +13,10 @@
     "static/media/image1.webp": "/movie-booking-app/static/media/image1.783f584c8aa15c419fde.webp",
     "index.html": "/movie-booking-app/index.html",
     "main.5ca547bd.css.map": "/movie-booking-app/static/css/main.5ca547bd.css.map",
-    "main.2404fe31.js.map": "/movie-booking-app/static/js/main.2404fe31.js.map"
+    "main.7f19281d.js.map": "/movie-booking-app/static/js/main.7f19281d.js.map"
   },
   "entrypoints": [
     "static/css/main.5ca547bd.css",
-    "static/js/main.2404fe31.js"
+    "static/js/main.7f19281d.js"
   ]
 }
